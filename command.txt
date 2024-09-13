@@ -1,0 +1,3 @@
+working directory ----> staging area ----> git repository
+
+by git add we push file into staging area and by git checkout we comeback into working directory
