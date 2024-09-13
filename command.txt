@@ -1,3 +1,12 @@
 working directory ----> staging area ----> git repository
 
 by git add we push file into staging area and by git checkout we comeback into working directory
+
+
+1.git init
+2.git status
+3.git add .
+4.git commit -m "anything you want to commit"
+5.git log 
+6.git diff file_name
+7.git checkout file_name
